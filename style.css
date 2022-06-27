@@ -11,3 +11,12 @@ body {
 #minha_foto {
     width: 200px;
 }
+
+.lessons {
+    display: flex;
+    margin-top: 25px;
+}
+
+#rodape {
+    bottom: 0;
+}

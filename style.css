@@ -10,6 +10,10 @@ body {
     
   }
   
+  header {
+    top:0;
+  }
+
   #cabecalho {
     top: 0;
   }

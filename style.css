@@ -20,3 +20,16 @@ body {
 #rodape {
     bottom: 0;
 }
+
+.informations {
+    display: grid;
+}
+
+.informations a {
+    margin-top: 15px;
+}
+
+.informations a:visited {
+    text-decoration: none;
+    color: #0000EE;
+}

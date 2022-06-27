@@ -2,48 +2,57 @@ body {
     background-color: rgb(253, 251, 251);
     height: 768px;
     width: 1366px;
+    
 }
 
 
 #cabecalho {
     top: 0;
+
 }
 
 
 #titulo {
     color: black;
+
 }
 
 
 #minha_foto {
     width: 200px;
+
 }
 
 
 .lessons {
     display: flex;
     margin-top: 25px;
+
 }
 
 
 #rodape {
     bottom: 0;
+
 }
 
 
 .informations {
     display: grid;
+
 }
 
 
 .informations a {
     margin-top: 15px;
+
 }
 
 
 .informations a:visited {
     text-decoration: none;
-    color: #0000ee;
+    color: #00e;
+
 }
 
 
@@ -51,20 +60,24 @@ body {
     text-align: justify;
     display: flex;
     align-items: baseline;
+
 }
 
 
 .lado-esquerdo {
     width: 400px;
+
 }
 
 
 .lado-direito {
     width: 400px;
     margin-left: 50px;
+
 }
 
 
 .title {
     font-size: 24px;
+
 }

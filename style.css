@@ -33,3 +33,12 @@ body {
     text-decoration: none;
     color: #0000EE;
 }
+
+.articles {
+    text-align: justify;
+    display: flex;
+}
+
+.lado-esquerdo article {
+    width: 25%;
+}

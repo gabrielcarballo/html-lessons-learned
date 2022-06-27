@@ -2,82 +2,57 @@ body {
     background-color: rgb(253, 251, 251);
     height: 768px;
     width: 1366px;
-    
-}
-
-
-#cabecalho {
+  }
+  
+  #cabecalho {
     top: 0;
-
-}
-
-
-#titulo {
+  }
+  
+  #titulo {
     color: black;
-
-}
-
-
-#minha_foto {
+  }
+  
+  #minha_foto {
     width: 200px;
-
-}
-
-
-.lessons {
+  }
+  
+  .lessons {
     display: flex;
     margin-top: 25px;
-
-}
-
-
-#rodape {
+  }
+  
+  #rodape {
     bottom: 0;
-
-}
-
-
-.informations {
+  }
+  
+  .informations {
     display: grid;
-
-}
-
-
-.informations a {
+  }
+  
+  .informations a {
     margin-top: 15px;
-
-}
-
-
-.informations a:visited {
+  }
+  
+  .informations a:visited {
     text-decoration: none;
     color: #00e;
-
-}
-
-
-.articles {
+  }
+  
+  .articles {
     text-align: justify;
     display: flex;
     align-items: baseline;
-
-}
-
-
-.lado-esquerdo {
+  }
+  
+  .lado-esquerdo {
     width: 400px;
-
-}
-
-
-.lado-direito {
+  }
+  
+  .lado-direito {
     width: 400px;
     margin-left: 50px;
-
-}
-
-
-.title {
+  }
+  
+  .title {
     font-size: 24px;
-
-}
+  }

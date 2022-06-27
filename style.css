@@ -4,9 +4,9 @@ body {
   background-color: rgb(253, 251, 251);
   height: 768px;
   width: 1366px;
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto, sans-serif;
   color: black;
-  line-height: 1.60;
+  line-height: 1.6;
 }
 
 #cabecalho {
@@ -33,6 +33,7 @@ body {
 
 .informations {
   display: grid;
+  margin-top: 100px;
 }
 
 .informations a {
@@ -44,7 +45,7 @@ body {
   color: blue;
 }
 
-table,th,td {
+table , th , td {
   border: 1px solid;
 }
 

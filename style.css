@@ -1,77 +1,73 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 
 body {
-    background-color: rgb(253, 251, 251);
-    height: 768px;
-    width: 1366px;
-    font-family: 'Roboto', sans-serif;
-    color: black;
-    line-height: 1.60;
-    
-  }
-  
-  header {
-    top:0;
-  }
+  background-color: rgb(253, 251, 251);
+  height: 768px;
+  width: 1366px;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  line-height: 1.60;
+}
 
-  #cabecalho {
-    top: 0;
-  }
-  
-  #titulo {
-    color: black;
-  }
-  
-  #minha_foto {
-    width: 200px;
-  }
-  
-  .lessons {
-    display: flex;
-    margin-top: 25px;
-  }
-  
-  #rodape {
-    bottom: 0;
-  }
-  
-  .informations {
-    display: grid;
-  }
-  
-  .informations a {
-    margin-top: 15px;
-  }
-  
-  .informations a:visited {
-    text-decoration: none;
-    color: blue;
-  }
-  
-  table, th, td {
-    border: 1px solid;
-  }
-  
-  table {
-    margin-left: 25px;
- }
+#cabecalho {
+  position: fixed;
+  top: 0;
+}
 
-  .articles {
-    text-align: justify;
-    display: flex;
-    align-items: baseline;
-    padding-bottom: 10px;
-  }
-  
-  .lado-esquerdo {
-    width: 400px;
-  }
-  
-  .lado-direito {
-    width: 400px;
-    margin-left: 50px;
-  }
-  
-  .title {
-    font-size: 24px;
-  }
+#titulo {
+  color: black;
+}
+
+#minha_foto {
+  width: 200px;
+}
+
+.lessons {
+  display: flex;
+  margin-top: 25px;
+}
+
+#rodape {
+  bottom: 0;
+}
+
+.informations {
+  display: grid;
+}
+
+.informations a {
+  margin-top: 15px;
+}
+
+.informations a:visited {
+  text-decoration: none;
+  color: blue;
+}
+
+table,th,td {
+  border: 1px solid;
+}
+
+table {
+  margin-left: 25px;
+}
+
+.articles {
+  text-align: justify;
+  display: flex;
+  align-items: baseline;
+  padding-bottom: 10px;
+}
+
+.lado-esquerdo {
+  width: 400px;
+}
+
+.lado-direito {
+  width: 400px;
+  margin-left: 50px;
+}
+
+.title {
+  font-size: 24px;
+}

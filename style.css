@@ -1,8 +1,13 @@
 body {
     background-color: rgb(253, 251, 251);
+    height: 768px;
+    width: 1366px;
 }
 
 #cabecalho {
     top: 0;
-    position: fixed;
+}
+
+#minha_foto {
+    width: 200px;
 }

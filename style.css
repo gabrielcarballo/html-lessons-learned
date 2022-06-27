@@ -37,8 +37,18 @@ body {
 .articles {
     text-align: justify;
     display: flex;
+    align-items: baseline;
 }
 
-.lado-esquerdo article {
-    width: 25%;
+.lado-esquerdo{
+    width: 400px;
+}
+
+.lado-direito {
+    width: 400px;
+    margin-left: 50px;
+}
+
+.title {
+    font-size: 24px;
 }

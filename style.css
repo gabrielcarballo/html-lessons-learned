@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
 body {
     background-color: rgb(253, 251, 251);
     height: 768px;
     width: 1366px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    line-height: 1.60;
+    
   }
   
   #cabecalho {
@@ -35,13 +41,22 @@ body {
   
   .informations a:visited {
     text-decoration: none;
-    color: #00e;
+    color: blue;
   }
   
+  table, th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    margin-left: 25px;
+ }
+
   .articles {
     text-align: justify;
     display: flex;
     align-items: baseline;
+    padding-bottom: 10px;
   }
   
   .lado-esquerdo {

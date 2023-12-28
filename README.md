@@ -4,7 +4,7 @@ This project is a reflection of what I've learned at Trybe Web Development Bootc
 
 ## Project Overview
 
-The website contains:
+The website contains a practical summary of what I learned in first week of the bootcamp. It's a simple page with a fixed top bar, a main section, and a footer. The main section contains:
 
 - A list of lessons I've learned
 - A list of lessons I still want to learn
